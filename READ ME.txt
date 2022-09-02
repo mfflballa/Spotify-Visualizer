@@ -1,6 +1,6 @@
 Hi, Spotify!
 
-In this folder is my Cover Letter, recorded and put over an Audio Visualizer that I created with Javascript. To open…
+In this repository is my Cover Letter, recorded and put over an Audio Visualizer that I created with Javascript. To open…
 
 1. Double click index.html to open the Audio Visualizer in your browser
 2. Click the “Choose File” Button
